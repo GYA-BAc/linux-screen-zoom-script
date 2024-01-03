@@ -9,4 +9,4 @@ Simply uncomment the line using scrot in the script.
 
 # Demo
 
-
+![Demo Video](Demo.gif)
