@@ -1,5 +1,9 @@
 # A Simple Bash Screen Zoomer
 
+## System
+ - Arch
+ - i3wm
+
 ## Dependancies
  - [flameshot](https://github.com/flameshot-org/flameshot)
  - [feh](https://github.com/derf/feh)
